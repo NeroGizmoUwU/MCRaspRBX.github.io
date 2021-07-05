@@ -1,10 +1,5 @@
 
-<li class="dropdown">
-          <a href="" class="dropbtn">Blog</a>
-          <div class="dropdown-content">
 <a href="./Blog/DiscordJS#1.md">DiscordJSEp1</a>
-            </li>
-
 <h1>Welcome to my page 👋<h1>
 <p>I'm The Creator Of RBXBot (https://dsc.gg/rbxbot) A Discord Bot Created To Enhance Your Server To Its Greatest.
 I Don't Have Many Major Projects I May Start HTML And CSS<p>
