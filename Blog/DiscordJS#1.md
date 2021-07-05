@@ -1,11 +1,13 @@
-# Discord JS V12 Tutorial #1
+<h1>Discord JS V12 Tutorial #1<h1>
 
-This Is The First Tutorial To Make A DiscordJS Bot
+<p>This Is The First Tutorial To Make A DiscordJS Bot<p>
 
+<p>
 Heres A DiscordJS Template:
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MCRaspRBX/MCRaspRBX.github.io/tree/main/Downloads/DiscordJSTemplate
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MCRaspRBX/MCRaspRBX.github.io/tree/main/Downloads/DiscordJSTemplate<p>
 
+<p>
 In config.js Place Discord Token From https://discord.com/developers/applications
-Set Prefix As Anything Like r! or r-
+Set Prefix As Anything Like r! or r-<p>
 
-# END OF FIRST BLOG
+<h1> END OF FIRST BLOG <h1>
