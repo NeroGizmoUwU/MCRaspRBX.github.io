@@ -4,7 +4,7 @@ body {
     text-align: center;
   }
  
-#img.source-image {
+img.source-image {
   width: 100%;
   position: absolute;
   top: 0;
