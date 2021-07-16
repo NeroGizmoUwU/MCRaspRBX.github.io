@@ -15,7 +15,7 @@ h1 {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(74,106,223);
   }
   
   li {
@@ -23,11 +23,11 @@ h1 {
   }
   
   li a:hover:not(.active) {
-    background-color: #439feb;
+    background-color: #264EFB;
   }
   
   .active {
-    background-color: #1b90f0;
+    background-color: #264EFB;
   }
 
   input[type=button], input[type=submit], input[type=reset] {
@@ -81,7 +81,7 @@ h1 {
 
 .Logo{
 display: block;
-   color: #264EFB;
+   color: black;
 float: left;
    padding-left: 30px;
    padding-top: -5px;
