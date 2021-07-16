@@ -5,7 +5,7 @@ h1 {
   .footer {
      padding: 1px;
      margin-top: 1px;
-     background-color: #000;
+     background-color: #264EFB;
      color: white;
      text-align: center;
  }
@@ -78,15 +78,3 @@ h1 {
   .dropdown:hover .dropdown-content {
     display: block;
   }
-
-.Logo{
-display: block;
-   color: black;
-float: left;
-   padding-left: 30px;
-   padding-top: -5px;
-   font-size: 22px;
-   font-weight: bold;
-   text-align: center;
-   
-}
