@@ -8,6 +8,9 @@ body {
 .bgSizeContain {
   background-image: url('https://i.imgur.com/ZhYSbuP.png'); 
   background-size: cover;
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   border: 2px solid;
   color: black;
   resize: both;
