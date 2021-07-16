@@ -17,6 +17,17 @@ p {
   background-color: yellow;
 }
  
+*{transition:all 0.3s ease-in-out;}
+
+.container{
+  clear:both;
+  overflow:auto;
+}
+
+nav{float:right;}
+
+.logo img{float:left;}
+
    .footer {
      padding: 1px;
      margin-top: 1px;
