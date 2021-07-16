@@ -54,10 +54,10 @@ body {
      text-decoration: none;
    }
 .transparent_btn{
-display: block;
+display: none;
     color: white;
     padding: 70px 60px;
-    border-radus: 0;
+    border-radus: 5;
     text-decoration: none;
     cursor: pointer;
 }
