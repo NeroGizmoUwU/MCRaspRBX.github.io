@@ -53,6 +53,16 @@ body {
      padding: 14px 16px;
      text-decoration: none;
    }
+.transparent_btn{
+display: inline-block;
+    color: #ffffff;
+    border: 0px solded #ffffff;
+    padding: 70px 60px;
+    border-radus: 0;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background color case 400ms;
+}
    
    li a:hover, .dropdown:hover .dropbtn {
      background-color: #439feb;
@@ -119,15 +129,5 @@ body {
   box-sizing: border-box;
 }
 
-.transparent_btn{
-display: inline-block;
-    color: #ffffff;
-    border: 0px solded #ffffff;
-    padding: 70px 60px;
-    border-radus: 0;
-    text-decoration: none;
-    cursor: pointer;
-    transition: background color case 400ms;
-}
     
 
