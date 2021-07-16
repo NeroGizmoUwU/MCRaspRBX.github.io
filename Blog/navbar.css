@@ -19,7 +19,7 @@ body {
     max-height: 100%;
     margin: 0;
     text-align: center;
-  border: 2px solid;
+  border: 2px;
   color: black;
   resize: both;
   overflow: none;
