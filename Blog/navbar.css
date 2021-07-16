@@ -5,7 +5,7 @@ h1 {
   .footer {
      padding: 1px;
      margin-top: 1px;
-     background-color: #264EFB;
+     background-color: #000000;
      color: white;
      text-align: center;
  }
@@ -23,15 +23,15 @@ h1 {
   }
   
   li a:hover:not(.active) {
-    background-color: #264EFB;
+    background-color: #000000;
   }
   
   .active {
-    background-color: #264EFB;
+    background-color: #000000;
   }
 
   input[type=button], input[type=submit], input[type=reset] {
-    background-color: #0080FF;
+    background-color: #000000;
     border: none;
     color: white;
     padding: 16px 32px;
