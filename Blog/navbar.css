@@ -5,11 +5,15 @@ body {
     overflow: hidden;
   }
  
-img.source-image {
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
+.bgSizeContain {
+  background-image: url(https://i.imgur.com/ZhYSbuP.png);
+  background-size: contain;
+  width: 160px;
+  height: 160px;
+  border: 2px solid;
+  color: blue;
+  resize: both;
+  overflow: scroll;
 }
 
    .footer {
