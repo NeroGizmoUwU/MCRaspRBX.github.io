@@ -54,7 +54,7 @@ body {
      text-decoration: none;
    }
 .transparent_btn{
-display: inline-block;
+display: block;
     color: white;
     border: 0px white;
     padding: 70px 60px;
