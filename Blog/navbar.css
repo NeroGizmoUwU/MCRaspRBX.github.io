@@ -61,7 +61,6 @@ display: inline-block;
     border-radus: 0;
     text-decoration: none;
     cursor: pointer;
-    transition: background color case 400ms;
 }
    
    li a:hover, .dropdown:hover .dropbtn {
