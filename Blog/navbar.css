@@ -4,9 +4,18 @@ body {
     text-align: center;
   }
 
-  h1 {
-    color: white;
-   }
+
+h1 {
+  background-color: green;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
  
    .footer {
      padding: 1px;
@@ -53,14 +62,7 @@ body {
      padding: 14px 16px;
      text-decoration: none;
    }
-.transparent_btn{
-display: none;
-    color: white;
-    padding: 70px 60px;
-    border-radus: 5;
-    text-decoration: none;
-    cursor: pointer;
-}
+
    
    li a:hover, .dropdown:hover .dropbtn {
      background-color: #439feb;
