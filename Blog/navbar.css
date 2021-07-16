@@ -6,7 +6,7 @@ body {
   }
  
 .bgSizeContain {
-  background-image: url(https://i.imgur.com/ZhYSbuP.png);
+  background-image: url('https://i.imgur.com/ZhYSbuP.png');
   background-size: contain;
   width: 160px;
   height: 160px;
